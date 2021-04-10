@@ -1,0 +1,2 @@
+# Disable Ethernet
+ Init
